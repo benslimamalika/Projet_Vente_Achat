@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/arrier_plan">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tous_les_champs_est_obligatoir"
+        android:textColor="@color/red"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/T2"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_nom"
+        android:inputType="text"
+        android:id="@+id/nom"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_prenom"
+        android:id="@+id/prenom"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_num_de_telephone"
+        android:inputType="phone"
+        android:id="@+id/N_tel"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_nom_de_produit"
+        android:inputType="text"
+        android:id="@+id/N_produit"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_description_de_produit"
+        android:inputType="text"
+        android:id="@+id/desc_produit"/>
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_prix"
+        android:inputType="number"
+        android:id="@+id/prix"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginLeft="@dimen/LL2">
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/animation_button"
+            android:onClick="Button_Enrg_produit"
+            android:text="@string/enregister"
+            android:textColor="@color/blanc"
+            android:textStyle="bold"/>
+
+        <Button
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/animation_button"
+            android:onClick="Button_Annuler_produit"
+            android:text="@string/annuler"
+            android:textColor="@color/blanc"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Retour_v"
+        android:textColor="@color/colorPrimary"
+        android:onClick="Retour_v"
+        android:text="@string/retour"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dec_v"
+        android:textColor="@color/colorPrimary"
+        android:gravity="center"
+        android:onClick="deconnexion_v"
+        android:text="@string/deconnexion"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

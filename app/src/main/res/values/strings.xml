@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Project of sale and purchase</string>
+    <string name="title_activity_traitement__achat_">Traitement_Achat_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">Developped by: Cherif Malika Marwa</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="Nom_V">Mohamed</string>
+    <string name="prenom_v">Ben Abdallah</string>
+    <string name="num_tel_v">55541451</string>
+    <string name="prix_v">50.0000</string>
+    <string name="nom_p">walid</string>
+    <string name="prenom_p">ben salha</string>
+    <string name="num_tel_p">55412365</string>
+    <string name="prix_p">300.000</string>
+    <string name="nom_r">Nour</string>
+    <string name="prenom_r">Ben sallah</string>
+    <string name="num_tel_r">54123698</string>
+    <string name="prix_r">80.000</string>
+    <string name="nom_c">Ahmed</string>
+    <string name="prenom_c">salemi</string>
+    <string name="num_tel_c">55487562</string>
+    <string name="prix_c">20.0000</string>
+    <string name="voiture">Car</string>
+    <string name="pc">Computer</string>
+    <string name="ram">Ram</string>
+    <string name="clavier">keyboard</string>
+    <string name="login_Admin">Admin</string>
+    <string name="mdp_Admin">Admin2018</string>
+    <string name="V_login">V</string>
+    <string name="V_mdp">V</string>
+    <string name="X_login">X</string>
+    <string name="X_mdp">X</string>
+    <string name="p_l_m_Verifier_votre_donner">Check the information</string>
+    <string name="map_voiture">Car</string>
+    <string name="map_voiture_symbol">A car of the type symbol</string>
+    <string name="map_pc">Computer</string>
+    <string name="map_desc_pc">Computer Hp Ram 8G  i5</string>
+    <string name="map_ram">Ram</string>
+    <string name="map_desc_ram">Ram 8G</string>
+    <string name="map_clavier">keyboard</string>
+    <string name="map_desc_clavier">keyboard modele 2018 is the best model </string>
+
+
+
+
+    <string name="Menu_Vous_avez_deconnecter">Log Out</string>
+
+
+
+    <string name="Menu_bienvenue_dans_la_page_vente">Welcome to the sales page</string>
+
+
+
+    <string name="rq_nous_avant_envoiyer_un_code_sur_votre_email">Note: We send you a code in your mail: </string>
+    <string name="noublier_pas_ce_code">, Remember this code, if you forgot your password, with this code we can recovert it</string>
+
+
+
+    <string name="merci_mr_mdm">Thank you Sir/Madam</string>
+    <string name="code_mdp">1234</string>
+    <string name="votre_mdp_est">Your password is: :</string>
+    <string name="Admin2018">Admin2018</string>
+
+
+
+    <string name="verifier_donnee_suivant">Verify your information </string>
+
+
+
+    <string name="retour">back</string>
+    <string name="mr_mdm">Sir/Madam :</string>
+    <string name="votre_produit_est_enregistrer">Your product has been recorded</string>
+    <string name="achat">Purchase</string>
+    <string name="vente">Sale</string>
+    <string name="nom">The name :</string>
+    <string name="prenom">First name:</string>
+    <string name="num_tel">Phone number :</string>
+    <string name="appel">Contact</string>
+    <string name="produit">Product:</string>
+    <string name="description_produit">Product Name:</string>
+
+
+
+    <string name="prix">Price:</string>
+
+
+
+    <string name="hint_login">login</string>
+    <string name="hint_mot_de_passe">password</string>
+    <string name="connexion">Log in</string>
+    <string name="oblier_mot_de_passe"> password forgotten</string>
+    <string name="creer_un_compte">Create an account</string>
+
+
+
+    <string name="hint_adresse">Adresse</string>
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_numero_de_telephone">Phone number</string>
+    <string name="suivant">Next</string>
+    <string name="p_oublier_num_tel">Phone number</string>
+    <string name="hint_code">key</string>
+    <string name="b_suivant">Next</string>
+    <string name="tous_les_champs_est_obligatoir">All content is necessary</string>
+    <string name="hint_num_de_telephone">Phone number</string>
+    <string name="hint_nom_de_produit">Product Name</string>
+    <string name="hint_description_de_produit">Product description</string>
+
+
+    <string name="hint_prix">price</string>
+
+
+    <string name="enregister">Record</string>
+    <string name="annuler">Close</string>
+    <string name="deconnexion">Log out</string>
+    <string name="hint_nom">Name</string>
+    <string name="hint_prenom">First name</string>
+    <string name="pour_votre_inscription">On your visit and registration</string>
+    <string name="ok">ok</string>
+
+
+</resources>
